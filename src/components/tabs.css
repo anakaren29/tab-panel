@@ -84,6 +84,9 @@ button{
     .div-contentTabs{
       padding: 0px;
     }
+    .content-tabs{
+      height: 75vh;
+    }
     img{
       width: 60%;
       height: 30vh;
